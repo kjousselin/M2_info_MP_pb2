@@ -1,0 +1,15 @@
+
+Réponse à la question posée :
+Il y a 278335 mots seuls.
+Il y a 19652 ensembles de 2 anagrammes.
+Il y a 3640 ensembles de 3 anagrammes.
+Il y a 974 ensembles de 4 anagrammes.
+Il y a 300 ensembles de 5 anagrammes.
+Il y a 108 ensembles de 6 anagrammes.
+Il y a 47 ensembles de 7 anagrammes.
+Il y a 15 ensembles de 8 anagrammes.
+Il y a 3 ensembles de 11 anagrammes.
+Il y a 6 ensembles de 9 anagrammes.
+Il y a 2 ensembles de 10 anagrammes.
+Il y a 1 ensembles de 13 anagrammes.
+Le programme s'est executé en 0 minute(s) et 27.93 seconde(s).
