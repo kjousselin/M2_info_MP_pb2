@@ -1,0 +1,65 @@
+Mode debug activé : liste rognée à 100000 mots :
+Le fichier 'gutenberg.txt' contient 100000 mots.
+
+Nb de mots de longueur 0 : 0
+Nb de listes distinctes d'anagrammes de longueur 0 : 0
+Nb de mots de longueur 1 : 2
+Nb de listes distinctes d'anagrammes de longueur 1 : 0
+Nb de mots de longueur 2 : 19
+Nb de listes distinctes d'anagrammes de longueur 2 : 0
+Nb de mots de longueur 3 : 89
+Nb de listes distinctes d'anagrammes de longueur 3 : 3
+Nb de mots de longueur 4 : 429
+Nb de listes distinctes d'anagrammes de longueur 4 : 31
+Nb de mots de longueur 5 : 1590
+Nb de listes distinctes d'anagrammes de longueur 5 : 142
+Nb de mots de longueur 6 : 4121
+Nb de listes distinctes d'anagrammes de longueur 6 : 375
+Nb de mots de longueur 7 : 7867
+Nb de listes distinctes d'anagrammes de longueur 7 : 585
+Nb de mots de longueur 8 : 11798
+Nb de listes distinctes d'anagrammes de longueur 8 : 678
+Nb de mots de longueur 9 : 14766
+Nb de listes distinctes d'anagrammes de longueur 9 : 678
+Nb de mots de longueur 10 : 15457
+Nb de listes distinctes d'anagrammes de longueur 10 : 565
+Nb de mots de longueur 11 : 14195
+Nb de listes distinctes d'anagrammes de longueur 11 : 363
+Nb de mots de longueur 12 : 11349
+Nb de listes distinctes d'anagrammes de longueur 12 : 185
+Nb de mots de longueur 13 : 7760
+Nb de listes distinctes d'anagrammes de longueur 13 : 71
+Nb de mots de longueur 14 : 4909
+Nb de listes distinctes d'anagrammes de longueur 14 : 26
+Nb de mots de longueur 15 : 2774
+Nb de listes distinctes d'anagrammes de longueur 15 : 9
+Nb de mots de longueur 16 : 1432
+Nb de listes distinctes d'anagrammes de longueur 16 : 2
+Nb de mots de longueur 17 : 746
+Nb de listes distinctes d'anagrammes de longueur 17 : 0
+Nb de mots de longueur 18 : 361
+Nb de listes distinctes d'anagrammes de longueur 18 : 0
+Nb de mots de longueur 19 : 170
+Nb de listes distinctes d'anagrammes de longueur 19 : 0
+Nb de mots de longueur 20 : 91
+Nb de listes distinctes d'anagrammes de longueur 20 : 1
+Nb de mots de longueur 21 : 43
+Nb de listes distinctes d'anagrammes de longueur 21 : 0
+Nb de mots de longueur 22 : 25
+Nb de listes distinctes d'anagrammes de longueur 22 : 0
+Nb de mots de longueur 23 : 4
+Nb de listes distinctes d'anagrammes de longueur 23 : 0
+Nb de mots de longueur 24 : 2
+Nb de listes distinctes d'anagrammes de longueur 24 : 0
+Nb de mots de longueur 25 : 1
+Nb de listes distinctes d'anagrammes de longueur 25 : 0
+
+Réponse à la question posée : 
+
+Il y a 92156 mots seuls.
+Il y a 3368 ensembles de 2 anagrammes.
+Il y a 287 ensembles de 3 anagrammes.
+Il y a 49 ensembles de 4 anagrammes.
+Il y a 9 ensembles de 5 anagrammes.
+Il y a 1 ensembles de 6 anagrammes.
+Le programme s'est executé en 7.0 minutes et 0.0 secondes.
